@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Armin's blog
+description: Random posts mainly for me to remember things
+meta_description: "Armin's random ramblings"
 
 markdown: redcarpet
 pygments: true
@@ -8,5 +8,5 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'blog.armin.io'
+author:         'Armin Krauss'
